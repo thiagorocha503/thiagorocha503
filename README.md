@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi, I’m Thiago Rocha!👋
+ <div>
+  <a href="https://github.com/thiagorocha503">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagorocha503&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorocha503&layout=compact&langs_count=10"/>
+</div>
 
-<!--
+  <!--
 **thiagorocha503/thiagorocha503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
